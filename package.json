@@ -1,14 +1,14 @@
 {
-    "description": "wasisession",
-    "main": "./itxxwasi.js",
+    "description": "kingsession",
+    "main": "./marisel.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node itxxwasi.js"
+    "start": "node marisel.js"
   },
-  "author": "WasiTech",
+  "author": "𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
