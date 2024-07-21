@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let KING_MARISEL_TEXT = `
 *_Session Connected By King Marisel_*
-*_Made With 🤍_*
+*_Made With 𓃵_*
 ______________________________________
 ╔════◇
 ║ *『𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍 𝒊𝒔 𝒄𝒐𝒏𝒏𝒆𝒄𝒕𝒆𝒅』*
